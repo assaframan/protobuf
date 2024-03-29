@@ -5,7 +5,7 @@
   "main": "google-protobuf.js",
   "dependencies": {
     "google-closure-library": "~20160125.0.0",
-    "gulp": "~3.9.0",
+    "gulp": "~5.0.0",
     "jasmine": "~2.4.1"
   },
   "devDependencies": {
